@@ -1,0 +1,8 @@
+# Track only documentation/ and examples/ folders.
+# Everything else (knowledge-base source files, scripts, local config) is excluded.
+
+/*
+!/documentation/
+!/examples/
+!README.md
+!.gitignore
