@@ -5,6 +5,7 @@
 !/documentation/
 !/examples/
 !README.md
+!Index.md
 !.gitignore
 documentation/Sandbox.ipynb
 documentation/Sets copy.md
